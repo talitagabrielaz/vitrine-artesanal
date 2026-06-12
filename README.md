@@ -162,3 +162,6 @@ Acesse em: **http://127.0.0.1:8000**
 - **Blade** — Template engine
 - **Vite** — Bundler de assets
 - **JavaScript** — Interatividade frontend
+
+
+Video do trabalho no youtube: https://www.youtube.com/watch?v=RhpIsyjSOts
